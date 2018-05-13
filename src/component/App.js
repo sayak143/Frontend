@@ -1,6 +1,6 @@
 import React, { Component } from 'react';
-import './App.css';
-import RevealFriendsRouter from './component/RevealFriendsRouter'
+import '../css/App.css';
+import RevealFriendsRouter from '../routers/RevealFriendsRouter';
 class App extends Component {
   render() {
     return (
